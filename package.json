@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "create-react-app": "^2.1.3"
+    "body-parser": "^1.18.3",
+    "create-react-app": "^2.1.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.11"
   }
 }
